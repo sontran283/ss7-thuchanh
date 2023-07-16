@@ -1,0 +1,235 @@
+/* 1 */
+/* 1 */
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.li1 {
+    display: flex;
+    list-style-type: none;
+    gap: 38px;
+    font-size: larger;
+}
+
+/* 2 */
+/* 2 */
+.text1 {
+    text-align: center;
+}
+
+.div3 {
+    text-align: center;
+    margin: 0 7%;
+    width: 1240px;
+    height: 480px;
+}
+
+.anh1 {
+    position: absolute;
+}
+
+.link1 {
+
+    position: relative;
+    bottom: 8px;
+    margin: 0 30%;
+    padding: 15px;
+    background-color: aquamarine;
+}
+
+/* 3 */
+/* 3 */
+.Benefits {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Many {
+    list-style-type: none;
+    background-color: beige;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px;
+    padding: 10px;
+}
+
+.Choices {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Product {
+    text-align: center;
+}
+
+/* 4 */
+/* 4 */
+.Our {
+    width: 100%;
+    height: 60%;
+}
+
+.Chair {
+    width: 330px;
+    height: 500px;
+    border: 1px solid #eaeaea;
+    background-color: antiquewhite;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px;
+}
+
+.them {
+    border-radius: 5px;
+    background-color: rgb(215, 245, 170);
+}
+
+.div4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* 5 */
+/* 5 */
+
+.More {
+    display: inline-block;
+    background-color: rgb(154, 200, 247);
+    border-radius: 5px;
+    padding: 11px;
+    width: 190px;
+}
+
+.More:hover {
+    background-color: white;
+    opacity: 0.5;
+}
+
+.Years {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ABC {
+    width: 595px;
+    height: 510px;
+    border-radius: 5px;
+}
+
+.DEF {
+    width: 595px;
+    height: 357px;
+    margin-bottom: 70px;
+}
+
+.Experience {
+    display: flex;
+    gap: 50px;
+    margin-left: 70px
+}
+
+/* 6 */
+/* 6 */
+.What {
+    text-align: center;
+}
+
+.say {
+    display: inline-block;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px;
+    border: 1px solid cornsilk;
+}
+
+.noyes {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* 7 */
+/* 7 */
+.bmw {
+    position: relative;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.anhh {
+    width: 670px;
+    height: 630px;
+}
+
+.mex {
+    position: absolute;
+    color: rgb(32, 3, 3);
+    top: 76%;
+    left: 1%;
+}
+
+.em {
+    position: relative;
+}
+
+.loo {
+    position: absolute;
+    margin: 0 38%;
+    top: 92%;
+}
+
+.bai7 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.By {
+    width: 500px;
+    height: 260px;
+}
+
+.tong {
+    position: relative;
+}
+
+.cong {
+    position: absolute;
+    left: 750px;
+    top: 0;
+}
+
+.tru {
+    margin-top: 80px;
+}
+
+/* 8 */
+/* 8 */
+.Join {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Learn {
+    width: 189px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: cadetblue;
+    font-size: 15px;
+}
+
+.ooo {
+    position: relative;
+    align-items: center;
+    background-color: black;
+    color: #eaeaea;
+}
+
+.Pro {
+    position: absolute;
+    display: flex;
+    right: 30px;
+    top: 12px;
+}

@@ -1,0 +1,97 @@
+/* 1 */
+/* 1 */
+body {
+
+    background-color: black;
+    color: aliceblue;
+}
+
+.Home {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.About {
+    list-style-type: none;
+    display: flex;
+    margin: 0 80%;
+    gap: 19px;
+    font-size: 20px;
+}
+
+.Get {
+    background-color: rgb(94, 94, 240);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+}
+
+.Recruit {
+    position: relative;
+    margin-top: 70px;
+}
+
+.top {
+    font-size: 50px;
+}
+
+.tep {
+    margin-left: 50px;
+}
+
+.Connect {
+    font-size: 15px;
+}
+
+.anh1 {
+    position: absolute;
+    width: 400px;
+    height: 389px;
+    left: 1000px;
+    bottom: 1px;
+}
+
+.logo1 {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 90px;
+}
+
+/* 2 */
+/* 2 */
+.FEATURE {
+    text-align: center;
+}
+
+.Search {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+/* 3 */
+/* 3 */
+.anhanh {
+    width: 300px;
+    height: 350px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.easy {
+    display: inline-block;
+    background-color: aquamarine;
+    color: black;
+    margin: 90px;
+    border-radius: 5px;
+}
+
+.find {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
